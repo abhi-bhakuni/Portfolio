@@ -28,7 +28,7 @@ export default function Skills() {
             <div className="pskills">
                 <div className="cskills">
                     <div className="skill" id="skill">
-                        <img src="NodeJS Logo.png" alt="NodeJS Logo" />
+                        <img src="Nodejs Logo.png" alt="NodeJS Logo" />
                         <p className="skillname">NodeJS</p>
                     </div>
                     <div className="skill" id="skill">
